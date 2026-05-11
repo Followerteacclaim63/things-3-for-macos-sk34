@@ -1,4 +1,4 @@
-#  
+#  elite Utility for Things 3 for macOS - markdown support and voice notes offers the most advanced Things 3 for macOS utility, with markdown support and voice notes. Ideal for
 
 
 
